@@ -1,4 +1,4 @@
-# Netflix ATV L3 DRM Uncertified Mod
+# Netflix ATV L3 DRM Uncertified Mod(FIXED)
 
 Modified Android TV Netflix Apk To Work On Uncertified And Widevine L3 Devices (Including Custom Roms)
 
@@ -68,3 +68,6 @@ You could add your own ESN at this stage if you have a working one
 
 ### About:
 ![8](https://user-images.githubusercontent.com/11254983/211722957-e860dc83-86df-4777-a01e-d48c7466b0b4.png)
+
+### Fixes:
+Now fixed no longer compatible on old android TVs
