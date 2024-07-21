@@ -1882,7 +1882,7 @@
 
     if-eqz v1, :cond_0
 
-    const-string v0, "NFANDROID1-PRV-T-L3-SDMC=MBX4K=RANGER-9908-"
+    const-string v0, "NFANDROID2-PRV-GENERIC-L3-12345678"
 
     :cond_0
     return-object v0
